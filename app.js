@@ -42,7 +42,7 @@ function generateEmailAddress(name, domain) {
 
 console.log('Exercise 4 Result:', generateEmailAddress("johnsmith", "example.com"));
 
-
+//Exercise 5
 function greetUser(name, timeOfDay) {
     return "Good " + timeOfDay + ", " + name + "!";
 }
